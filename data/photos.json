@@ -1,0 +1,415 @@
+[
+  {
+    "file": "images/001.jpg",
+    "date": "2025-11-19",
+    "original": "IMG_2316.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/002.jpg",
+    "date": "2025-12-08",
+    "original": "IMG_3139.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/003.jpg",
+    "date": "2025-12-13",
+    "original": "IMG_3457.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/004.jpg",
+    "date": "2025-12-13",
+    "original": "IMG_3465.JPG",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/006.jpg",
+    "date": "2025-12-16",
+    "original": "IMG_3493.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/007.jpg",
+    "date": "2025-12-16",
+    "original": "IMG_3503.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/008.jpg",
+    "date": "2025-12-16",
+    "original": "IMG_3504.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/009.jpg",
+    "date": "2025-12-16",
+    "original": "IMG_3518.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/010.jpg",
+    "date": "2025-12-16",
+    "original": "IMG_3554.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/011.jpg",
+    "date": "2025-12-21",
+    "original": "IMG_3715.JPG",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/013.jpg",
+    "date": "2025-12-24",
+    "original": "IMG_3829.JPG",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/015.jpg",
+    "date": "2025-12-24",
+    "original": "IMG_3831.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/016.jpg",
+    "date": "2025-12-24",
+    "original": "IMG_3863.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/063.jpg",
+    "date": "2025-12-24",
+    "original": "IMG_3817.JPG",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/065.jpg",
+    "date": "2025-12-24",
+    "original": "IMG_3902.JPG",
+    "w": 537,
+    "h": 1600
+  },
+  {
+    "file": "images/017.jpg",
+    "date": "2026-01-07",
+    "original": "IMG_4331.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/018.jpg",
+    "date": "2026-01-07",
+    "original": "IMG_4337.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/019.jpg",
+    "date": "2026-01-07",
+    "original": "IMG_4358.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/020.jpg",
+    "date": "2026-01-08",
+    "original": "IMG_4394.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/057.jpg",
+    "date": "2026-01-09",
+    "original": "IMG_3353 2.jpeg",
+    "w": 1108,
+    "h": 1477
+  },
+  {
+    "file": "images/021.jpg",
+    "date": "2026-01-23",
+    "original": "IMG_5389.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/022.jpg",
+    "date": "2026-01-23",
+    "original": "IMG_5466.jpeg",
+    "w": 900,
+    "h": 1600
+  },
+  {
+    "file": "images/023.jpg",
+    "date": "2026-01-23",
+    "original": "IMG_5484.jpeg",
+    "w": 900,
+    "h": 1600
+  },
+  {
+    "file": "images/068.jpg",
+    "date": "2026-03-10",
+    "original": "lp_image 3.jpeg",
+    "w": 733,
+    "h": 1600
+  },
+  {
+    "file": "images/069.jpg",
+    "date": "2026-04-07",
+    "original": "lp_image 4.jpeg",
+    "w": 733,
+    "h": 1600
+  },
+  {
+    "file": "images/070.jpg",
+    "date": "2026-04-07",
+    "original": "lp_image.jpeg",
+    "w": 733,
+    "h": 1600
+  },
+  {
+    "file": "images/067.jpg",
+    "date": "2026-05-17",
+    "original": "lp_image 2.jpeg",
+    "w": 733,
+    "h": 1600
+  },
+  {
+    "file": "images/024.jpg",
+    "date": "2026-05-29",
+    "original": "IMG_8772.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/025.jpg",
+    "date": "2026-06-01",
+    "original": "IMG_8810.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/026.jpg",
+    "date": "2026-06-08",
+    "original": "IMG_8975.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/027.jpg",
+    "date": "2026-06-09",
+    "original": "IMG_8998.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/028.jpg",
+    "date": "2026-07-17",
+    "original": "IMG_0168.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/029.jpg",
+    "date": "2026-07-18",
+    "original": "IMG_0171.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/030.jpg",
+    "date": "2026-07-24",
+    "original": "IMG_0288.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/031.jpg",
+    "date": "2026-07-25",
+    "original": "IMG_0311.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/032.jpg",
+    "date": "2026-08-02",
+    "original": "IMG_0413.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/033.jpg",
+    "date": "2026-08-10",
+    "original": "IMG_0506.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/034.jpg",
+    "date": "2026-08-12",
+    "original": "IMG_8569.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/035.jpg",
+    "date": "2026-08-19",
+    "original": "IMG_0968.JPG",
+    "w": 1600,
+    "h": 900
+  },
+  {
+    "file": "images/037.jpg",
+    "date": "2026-08-19",
+    "original": "IMG_0735.JPG",
+    "w": 900,
+    "h": 1600
+  },
+  {
+    "file": "images/039.jpg",
+    "date": "2026-08-24",
+    "original": "IMG_0977.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/040.jpg",
+    "date": "2026-08-26",
+    "original": "IMG_1225.JPG",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/042.jpg",
+    "date": "2026-08-27",
+    "original": "IMG_1046.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/043.jpg",
+    "date": "2026-08-28",
+    "original": "IMG_1338.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/044.jpg",
+    "date": "2026-08-28",
+    "original": "IMG_1426.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/045.jpg",
+    "date": "2026-08-29",
+    "original": "IMG_1550.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/046.jpg",
+    "date": "2026-08-29",
+    "original": "IMG_1587.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/047.jpg",
+    "date": "2026-08-31",
+    "original": "IMG_1773.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/048.jpg",
+    "date": "2026-08-31",
+    "original": "IMG_1864.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/049.jpg",
+    "date": "2026-09-01",
+    "original": "IMG_2035.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/050.jpg",
+    "date": "2026-09-02",
+    "original": "IMG_2117.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/051.jpg",
+    "date": "2026-09-03",
+    "original": "IMG_2164.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/052.jpg",
+    "date": "2026-09-03",
+    "original": "IMG_2503.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/053.jpg",
+    "date": "2026-09-04",
+    "original": "IMG_2702.jpeg",
+    "w": 1600,
+    "h": 1200
+  },
+  {
+    "file": "images/054.jpg",
+    "date": "2026-09-18",
+    "original": "IMG_2885.jpeg",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "file": "images/055.jpg",
+    "date": "2026-10-20",
+    "original": "IMG_3590.jpeg",
+    "w": 1600,
+    "h": 900
+  },
+  {
+    "file": "images/059.jpg",
+    "date": "2026-10-22",
+    "original": "IMG_3600.JPG",
+    "w": 1477,
+    "h": 1108
+  },
+  {
+    "file": "images/061.jpg",
+    "date": "2026-10-31",
+    "original": "IMG_3694.JPG",
+    "w": 1477,
+    "h": 1108
+  },
+  {
+    "file": "images/056.jpg",
+    "date": "2026-11-07",
+    "original": "IMG_3728.jpeg",
+    "w": 900,
+    "h": 1600
+  }
+]

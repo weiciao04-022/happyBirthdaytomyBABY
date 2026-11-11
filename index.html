@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Happy Birthday</title>
+  <meta name="theme-color" content="#0f0f0d" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;1,400;1,500&family=Courier+Prime&family=Noto+Sans+TC:wght@300;500&family=Noto+Serif+TC:wght@300;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="hearts-layer"></div>
+  <div class="grain" aria-hidden="true"></div>
 
+  <div class="app">
+
+    <!-- 1. 片頭 -->
+    <header class="opening" id="opening">
+      <div class="opening-photo" id="opening-photo"></div>
+      <div id="dust-canvas"></div>
+      <div class="letterbox top"></div>
+      <div class="letterbox bottom"></div>
+      <div class="credits-seq">
+        <p class="seq seq-1"><span class="small-caps">A FILM BY</span><span id="op-by"></span></p>
+        <p class="seq seq-2"><span class="small-caps">STARRING</span><span id="op-star"></span></p>
+        <div class="seq seq-3 title-card">
+          <h1 id="op-title"></h1>
+          <p class="title-en" id="op-title-en"></p>
+        </div>
+      </div>
+      <p class="scroll-hint">▼ 開始放映</p>
+    </header>
+
+    <!-- 2. 每一幕＋擎天崗（由 js/main.js 依照片日期產生） -->
+    <main id="scenes"></main>
+
+    <!-- 3. 結尾：吹蠟燭 → 煙火 → 片尾名單 -->
+    <section class="finale" id="finale">
+      <div id="finale-canvas"></div>
+      <div class="letterbox top"></div>
+      <div class="letterbox bottom"></div>
+      <div class="finale-ui" id="finale-ui">
+        <h2 class="finale-title" id="finale-title"></h2>
+        <button class="btn" id="blow-btn"></button>
+        <p class="finale-hint" id="finale-hint"></p>
+      </div>
+      <div class="end-roll" id="end-roll" hidden>
+        <div class="end-bg" id="end-bg"></div>
+        <div class="roll" id="roll"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- 點照片放大 -->
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lb-close" id="lb-close" aria-label="關閉">×</button>
+    <button class="lb-prev" id="lb-prev" aria-label="上一張">‹</button>
+    <img id="lb-img" alt="" />
+    <button class="lb-next" id="lb-next" aria-label="下一張">›</button>
+    <p class="lb-caption" id="lb-caption"></p>
+  </div>
+
+  <script src="lib/p5.min.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/photos.js"></script>
+  <script src="js/sketch-hearts.js"></script>
+  <script src="js/sketch-dust.js"></script>
+  <script src="js/develop.js"></script>
+  <script src="js/sketch-finale.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
